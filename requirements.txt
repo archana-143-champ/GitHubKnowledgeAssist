@@ -1,0 +1,7 @@
+langchain
+chromadb
+openrouter
+huggingface-hub
+gitpython
+torch
+sentence-transformers
